@@ -11,6 +11,8 @@ end
 
 def combine_name(first_name, last_name)
   # Q3 CODE HERE
+  stringz= first_name + " " + last_name
+  return stringz
 
 end
 
